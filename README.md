@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
 </p>
 
 <h3 align="center">⏳ Ongoing</h3>
@@ -18,20 +18,20 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 <h3 align="center">💻 My Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 <br>
 
 <a align="center" href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&theme=nord&hide_border=true" />&nbsp&nbsp
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&theme=nord&hide_border=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=donut&theme=nord&hide_border=true" />
 </a>
 
