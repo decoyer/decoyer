@@ -1,5 +1,5 @@
 <a href="https://github.com/decoyer">
-  <img align="center" style="height:250px" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=240&animation=fadeIn&section=footer&font=Sans&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontAlign=64&fontSize=64" />
+  <img align="center" style="height:250px" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=240&animation=fadeIn&section=footer&font=굴림&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontAlign=64&fontSize=64" />
 </a>
 <br><br>
 
