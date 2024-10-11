@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/decoyer">
+  <a href="#">
   <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=240&animation=fadeIn&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontAlign=64&fontSize=64" />
   </a>
 </div>
@@ -14,7 +14,7 @@
 <br>
 
 <h3 align="center">⏳ Ongoing</h3>
-<div align="center" pointer-events="none">
+<div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
