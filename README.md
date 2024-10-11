@@ -7,5 +7,5 @@
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=decoyer" />
 </a>
 <a href="https://github.com/decoyer">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true&" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true&" />
 </a>
