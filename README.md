@@ -3,11 +3,11 @@
 </a>
 <br><br>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+<a href="https://github.com/decoyer">
+  <img src="https://github-readme-stats.vercel.app/api?username=decoyer&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+<a href="https://github.com/decoyer">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 
 
