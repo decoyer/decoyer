@@ -31,8 +31,8 @@
 <br>
 
 <a align="center" href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&include_all_commits=true&theme=nord&hide_border=true" />&nbsp
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=donut&theme=nord&hide_border=true&card_width=400" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&include_all_commits=true&theme=nord&hide_border=true" />&nbsp
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=donut&theme=nord&hide_border=true&card_width=400" />
 </a>
 
 </div>
