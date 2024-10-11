@@ -4,8 +4,8 @@
 <br><br>
 
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/decoyer)">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer" />
 </a>
 <a href="https://github.com/decoyer">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true&" />
 </a>
