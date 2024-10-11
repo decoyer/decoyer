@@ -4,7 +4,7 @@
 </a>
 </div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">✍🏻 Ongoing ✍🏻</h3>
+<h3 align="center">⏳ Ongoing ⏳</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
