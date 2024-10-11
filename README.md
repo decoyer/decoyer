@@ -3,4 +3,4 @@
 <a href="https://github.com/decoyer"><img align="center" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true" /></a> 
 
 
-<img align="center" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true" /></a> 
+<img align="right" style="height:250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=donut&theme=nord&hide_border=true" /></a> 
