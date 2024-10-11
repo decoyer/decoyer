@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </p>
 
+<br>
+
 <a align="center" href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&theme=nord" />
 </a>
