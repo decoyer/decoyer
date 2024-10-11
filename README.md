@@ -34,7 +34,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=decoyer&theme=nord" />
 </a>
 <a align="center" href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=compact&theme=nord&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=donut&theme=nord&card_width=320" />
 </a>
 
 </div>
