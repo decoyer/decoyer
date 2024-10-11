@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </p>
 
-![](https://github.com/kyu0918/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/kyu0918/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/decoyer/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/decoyer/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
