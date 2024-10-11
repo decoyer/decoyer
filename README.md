@@ -1,3 +1,3 @@
-### Hello world!
+### Free Data, Free World
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=decoyer&theme=bear&show_icons=true)](https://github.com/decoyer)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=decoyer&layout=compact)
