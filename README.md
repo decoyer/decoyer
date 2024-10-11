@@ -10,8 +10,6 @@
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />&nbsp
 </p>
 
-<br>
-
 <h3 align="center">⏳ Ongoing</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
@@ -20,8 +18,6 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
 </p>
-
-<br>
 
 <h3 align="center">💻 My Tools</h3>
 <p align="center">
