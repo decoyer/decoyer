@@ -1,5 +1,5 @@
 <div align="center">
-  <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&animation=twinkling&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontSize=60&fontAlign=70&fontAlignY=70&desc=🦆&descSize=60&descAlign=80&descAlignY=20" />
+  <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&animation=fadeIn&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontSize=60&fontAlign=70&fontAlignY=70&desc=🦆&descSize=60&descAlign=80&descAlignY=20" />
 
 <br>
 
