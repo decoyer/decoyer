@@ -5,9 +5,9 @@
 
 <h3 align="center">📋 Tech Stack</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=social&logo=openjdk&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white" />
 </p>
 
 <h3 align="center">⏳ Ongoing</h3>
