@@ -29,8 +29,7 @@
 <br>
 
 <p align="center">
-  <img height=200 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decoyer&layout=compact&theme=nord&hide_border=true" />
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20"/>&nbsp
 </p>
 
 </div>
