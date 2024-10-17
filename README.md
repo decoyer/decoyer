@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img height=500 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&ext=heatmap&border=0&radius=20animation=false"/>
+  <img height=500 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&ext=activity&border=0&radius=20animation=false"/>
 </p>
 
 </div>
