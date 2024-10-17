@@ -29,7 +29,7 @@
 <br>
 
 <p align="center">
-  <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
+  <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>&nbsp
   <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
 </p>
 
