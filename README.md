@@ -30,10 +30,10 @@
 <br>
 
 <p align="center">
-  <a href="https://solved.ac/profile/decoyer">
+  <a href="https://solved.ac/profile/decoyer" style="text-decoration: none;">
     <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
   </a>
-  <a href="https://leetcode.com/u/decoyer">
+  <a href="https://leetcode.com/u/decoyer" style="text-decoration: none;">
     <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
   </a>
 </p>
