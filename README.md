@@ -31,10 +31,10 @@
 
 <p align="center" style="text-decoration: none; margin: 0 auto;">
   <a href="https://solved.ac/profile/decoyer">
-    <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
+    <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer" style="vertical-align: top;"/>
   </a>
   <a href="https://leetcode.com/u/decoyer">
-    <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
+    <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true" style="vertical-align: top;"/>
   </a>
 </p>
 
