@@ -31,7 +31,7 @@
 <p align="center">
   <a href="http://leetcode.com/decoyer">
     <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
-  </a> <br>
+  </a> &nbsp;
   <a href="http://solved.ac/decoyer">
     <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
   </a>
