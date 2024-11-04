@@ -1,4 +1,5 @@
 <div align="center">
+  <a href="
   <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&stroke=000000&strokeWidth=2&fontSize=60&fontAlign=70&fontAlignY=70&desc=🦆&descSize=60&descAlign=80&descAlignY=20" />
 
 <br>
@@ -29,10 +30,10 @@
 <br>
 
 <p align="center">
-  <a href="http://solved.ac/decoyer">
+  <a href="https://solved.ac/profile/decoyer">
     <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
   </a>
-  <a href="http://leetcode.com/decoyer">
+  <a href="https://leetcode.com/u/decoyer">
     <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
   </a>
 </p>
