@@ -29,7 +29,7 @@
 
 <br>
 
-<p align="center" style="text-decoration: none; margin: 0;">
+<p align="center" style="text-decoration: none; margin: 0 auto;">
   <a href="https://solved.ac/profile/decoyer">
     <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
   </a>
