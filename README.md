@@ -29,12 +29,12 @@
 
 <br>
 
-<p align="center" style="text-decoration: none; margin: 0 auto;">
-  <a href="https://solved.ac/profile/decoyer">
-    <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer" style="vertical-align: top;"/>
+<p align="center" style="display: inline-block; font-size: 0;">
+  <a href="https://solved.ac/profile/decoyer" style="text-decoration: none;">
+    <img height=175 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer" style="display: block;"/>
   </a>
-  <a href="https://leetcode.com/u/decoyer">
-    <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true" style="vertical-align: top;"/>
+  <a href="https://leetcode.com/u/decoyer" style="text-decoration: none;">
+    <img height=175 align="center" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true" style="display: block;"/>
   </a>
 </p>
 
