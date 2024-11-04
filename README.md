@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center">📋 Tech Stack</h3>
 <div align="center">
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://solved.ac/profile/decoyer">
