@@ -4,6 +4,8 @@
     </a>
 </div>
 
+<hr>
+
 <h3 align="center">📋 Tech Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;
@@ -30,6 +32,8 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
+
+<hr>
 
 <h3 align="center">🏃 Progress</h3>
 <div align="center">
