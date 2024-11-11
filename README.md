@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
-<h3 align="center">⏳ Ongoing</h3>
+<h3 align="center">⏳ In Progress</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &nbsp;
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> &nbsp;
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
-<h3 align="center">💻 My Tools</h3>
+<h3 align="center">💻 Toolbox</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &nbsp;
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> &nbsp;
@@ -32,7 +32,7 @@
 
 <hr>
 
-<h3 align="center">🏃 Progress</h3>
+<h3 align="center">🏃 Milestones</h3>
 <div align="center">
     <a href="https://solved.ac/profile/decoyer">
         <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
