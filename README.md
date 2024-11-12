@@ -35,16 +35,9 @@
 
 <h3 align="center">🏃 Milestones</h3>
 <div align="center">
-    <a href="https://solved.ac/profile/decoyer">
-        <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/>
-    </a> &nbsp;
+    <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/> &nbsp;
     <!--
-    <a href="https://solved.ac/profile/decoyer">
-      <img height="175" src="http://mazandi.herokuapp.com/api?handle=decoyer&theme=dark"/>
-    </a> &nbsp;
-      -->
-    <a href="https://leetcode.com/u/decoyer">
-        <img height="175"
-            src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
-    </a>
+    <img height="175" src="http://mazandi.herokuapp.com/api?handle=decoyer&theme=dark"/> &nbsp;
+    -->
+    <img height="175" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
 </div>
