@@ -35,8 +35,8 @@
 <h3 align="center">🏃 Milestones</h3>
 <div align="center">
     <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/> &nbsp;
-    <!--
     <img height="175" src="http://mazandi.herokuapp.com/api?handle=decoyer&theme=dark"/> &nbsp;
-    -->
+    <!--
     <img height="175" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
+    -->
 </div>
