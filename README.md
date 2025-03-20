@@ -1,4 +1,4 @@
-<div align="center" style="font-size: 0;">
+<div align="center">
     <a href="https://github.com/decoyer">
         <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=240&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&fontSize=60&fontAlign=70&fontAlignY=70&stroke=000000&strokeWidth=2&desc=🦆&descSize=60&descAlign=80&descAlignY=20"/>
     </a>
@@ -9,8 +9,8 @@
 <h3 align="center">📋 Tech Stack</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &ensp;
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &ensp;
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &ensp;
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <br>
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> &ensp;
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &ensp;
@@ -19,8 +19,8 @@
 
 <h3 align="center">⏳ In Progress</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> &ensp;
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/> &ensp;
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
 <h3 align="center">💻 Toolbox</h3>
