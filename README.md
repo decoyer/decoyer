@@ -8,26 +8,26 @@
 
 <h3 align="center">📋 Tech Stack</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &nbsp;
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &nbsp;
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> &ensp;
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> &ensp;
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
     <br>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> &nbsp;
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> &ensp;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &ensp;
     <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
 <h3 align="center">⏳ In Progress</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> &nbsp;
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> &nbsp;
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/> &ensp;
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </div>
 
 <h3 align="center">💻 Toolbox</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &nbsp;
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> &nbsp;
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> &nbsp;
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> &ensp;
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> &ensp;
+    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/> &ensp;
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 </div>
 
@@ -35,8 +35,8 @@
 
 <h3 align="center">🏃 Milestones</h3>
 <div align="center">
-    <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/> &nbsp;
-    <img height="175" src="http://mazandi.herokuapp.com/api?handle=decoyer&theme=dark"/> &nbsp;
+    <img height="175" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=decoyer"/> &ensp;
+    <img height="175" src="http://mazandi.herokuapp.com/api?handle=decoyer&theme=dark"/> &ensp;
     <!--
     <img height="175" src="https://leetcard.jacoblin.cool/decoyer?theme=nord&font=Roboto&border=0&radius=20&animation=true"/>
     -->
