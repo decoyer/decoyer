@@ -6,7 +6,7 @@
 
 <hr>
 
-<h3 align="center">📋 Tech Stack</h3>
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></a> &ensp;
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a> &ensp;
@@ -23,7 +23,7 @@
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
 
-<h3 align="center">💻 Toolbox</h3>
+<h3 align="center">🧰 Toolbox</h3>
 <p align="center">
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> &ensp;
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/></a> &ensp;
