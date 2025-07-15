@@ -19,6 +19,7 @@
 
 <h3 align="center">⏳ In Progress</h3>
 <p align="center">
+    <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></a> &ensp;
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/></a> &ensp;
     <a href="https://github.com/decoyer"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/></a>
 </p>
