@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/decoyer">
-        <img height=250 align="center" src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=240&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&fontSize=65&fontAlign=65&fontAlignY=65&stroke=000000&strokeWidth=2&desc=🦆&descSize=60&descAlign=80&descAlignY=15"/>
+        <img height=200 align="center" src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=200&section=footer&fontColor=ffffe4&text=Decoy%20the%20World!!&fontSize=65&fontAlign=65&fontAlignY=65&stroke=000000&strokeWidth=2&desc=🦆&descSize=60&descAlign=80&descAlignY=20"/>
     </a>
 </p>
 
